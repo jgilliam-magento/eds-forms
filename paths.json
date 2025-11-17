@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/eds-forms:/"
+    "/content/eds-forms/:/"
   ],
   "includes": [
     "/content/",
