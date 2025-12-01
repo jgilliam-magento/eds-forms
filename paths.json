@@ -1,6 +1,7 @@
 {
   "mappings": [
 <<<<<<< HEAD
+<<<<<<< HEAD
     "/content/aem-boilerplate/:/",
     "/content/aem-boilerplate/configuration:/.helix/config.json",
     "/content/aem-boilerplate/metadata:/metadata.json"
@@ -9,6 +10,9 @@
     "/content/aem-boilerplate/"
 =======
     "/:/"
+=======
+    "/content/eds-forms:/"
+>>>>>>> c6f2fa4 (Update paths.json)
   ],
   "includes": [
     "/content/",
