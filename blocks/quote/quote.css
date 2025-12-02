@@ -27,12 +27,6 @@
     height: 5px;
     width: 30px;
     background-color: darkgray;
-}.block.quote {
-    background-color: #ccc;
-    padding: 0 0 24px;
-    display: flex;
-    flex-direction: column;
-    margin: 1rem 0;
 }
 
 .block.quote blockquote {
